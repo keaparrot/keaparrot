@@ -9,3 +9,5 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/DBMS-MariaDB-informational?style=flat-square&logo=mariadb&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=git&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat-square&logoColor=white&color=3498db)
